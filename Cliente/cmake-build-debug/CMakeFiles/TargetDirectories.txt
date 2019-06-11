@@ -1,0 +1,3 @@
+/home/racso/Lenguajes/Cliente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/racso/Lenguajes/Cliente/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/racso/Lenguajes/Cliente/cmake-build-debug/CMakeFiles/Cliente.dir
